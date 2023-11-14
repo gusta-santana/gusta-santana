@@ -1,0 +1,3 @@
+- 👋 Hello, My name is Gustavo (but you can call me Gus)
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
