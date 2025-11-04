@@ -16,14 +16,8 @@
 ---
 
 ### 📫 How to reach me
-
-<a href="https://linkedin.com/in/gustavo-sborges" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-<a href="mailto:bgustavosantana.contato@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-sborges)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bgustavosantana.contato@gmail.com)
 
 ---
 
