@@ -20,5 +20,5 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bgustavosantana.contato@gmail.com)
 
 ---
-
+> 🎨 Avatar inspirado no Octocat © GitHub, customizado por mim.
 > “The best way to predict the future is to create it.” – Alan Kay
