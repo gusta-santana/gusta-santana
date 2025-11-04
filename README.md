@@ -7,13 +7,6 @@
 
 ---
 
-### 🧠 What I’m focusing on
-- Building solid front-end foundations  
-- Practicing responsive design and accessibility  
-- Exploring frameworks like **React** and libraries like **TailwindCSS**
-
----
-
 ### 🛠️ Tech Stack (so far)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
