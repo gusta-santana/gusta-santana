@@ -21,4 +21,5 @@
 
 ---
 > 🎨 Avatar inspirado no Octocat © GitHub, customizado por mim.
+
 > “The best way to predict the future is to create it.” – Alan Kay
